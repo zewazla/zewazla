@@ -1,9 +1,9 @@
 #### Hi 👋 I am Bożka!
 
-### *Avid cyclist. 
-### *Coffee addict.
-### *Proud glutton. 
-### *Amateur gardener.
+### Avid cyclist. 
+### Coffee addict.
+### Proud glutton. 
+### Amateur gardener.
 
 - 🌱 I’m currently learning: JavaScript/Node.js/Azure
 
