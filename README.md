@@ -1,6 +1,6 @@
 # Hi 👋 I'm Bożka!
 
-### Avid cyclist. 
+### Avid cyclist. :bicyclist:
 ### Coffee addict.
 ### Proud glutton. 
 ### Amateur gardener.
