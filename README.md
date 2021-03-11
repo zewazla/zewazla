@@ -5,7 +5,7 @@
 ### Proud glutton. :sandwich:
 ### Amateur gardener. :seedling:
 
-- 🌱 I’m currently learning: JavaScript/Node.js/Azure 
+- :books: I’m currently learning: JavaScript/Node.js/Azure 
 
 - 💬 Ask me about everything :)
 - 📫 How to reach me: bozka.majchrzak@gmail.com
