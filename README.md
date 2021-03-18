@@ -5,7 +5,7 @@
 ### Proud glutton. :sandwich:
 ### Amateur gardener. :seedling:
 
-- :books: I’m currently learning: JavaScript :]
+- :books: I’m currently learning: front-end development :]
 
 - 💬 Ask me about everything :)
 - 📫 How to reach me: bozka.majchrzak@gmail.com
