@@ -1,4 +1,7 @@
-# ![header](https://github.com/zewazla/zewazla/blob/main/avatar_me.jpg)
+
+<p align="center">
+<img src="https://github.com/zewazla/zewazla/blob/main/avatar_me.jpg" width="410" alt="iComics on an iPhone XS Max" align="right" />
+</p>
 
 # Hi 👋 I'm Bożka!
 
