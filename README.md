@@ -1,4 +1,4 @@
-# [![header](https://github.com/zewazla/zewazla/blob/main/avatar_me.jpg)]
+# ![header](https://github.com/zewazla/zewazla/blob/main/avatar_me.jpg)
 
 # Hi 👋 I'm Bożka!
 
