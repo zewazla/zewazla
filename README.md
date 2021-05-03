@@ -10,7 +10,7 @@
 - :books: I’m currently learning: front-end development :]
 
 ## Technologies
-[![Java](https://img.shields.io/badge/-Java-e40000?style=flat-square&logo=java&logoColor=white)](https://github.com/zewazla/)
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)](https://github.com/zewazla/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
