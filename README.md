@@ -26,7 +26,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewazla)
 
-![zewazla github stats](https://github-readme-stats.vercel.app/api?username=zewazla&show_icons=true)
+
 
 
 - 💬 Ask me about everything :)
