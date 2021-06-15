@@ -13,6 +13,7 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)](https://github.com/zewazla/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![forthebadge angular](http://ForTheBadge.com/images/badges/made-with-angular.svg)](https://www.python.org/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-de4b25?style=flat-square&logo=html5&logoColor=white)](https://github.com/zewazla/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1a70b5?style=flat-square&logo=css3&logoColor=white)](https://github.com/zewazla/)
