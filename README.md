@@ -22,6 +22,18 @@
 [![Webpack](https://img.shields.io/badge/-Webpack-1e72b3?style=flat-square&logo=Webpack&logoColor=white)](https://webpack.js.org/)
 [![Prettier](https://img.shields.io/badge/-Prettier-1a2b34?style=flat-square&logo=Prettier&logoColor=white)](https://prettier.io/)
 
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white
+https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white
+
+
+
 ## Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zewazla)
