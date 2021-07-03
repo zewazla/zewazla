@@ -21,6 +21,8 @@
 [![Git](https://img.shields.io/badge/-Git-fa4f28?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Webpack](https://img.shields.io/badge/-Webpack-1e72b3?style=flat-square&logo=Webpack&logoColor=white)](https://webpack.js.org/)
 [![Prettier](https://img.shields.io/badge/-Prettier-1a2b34?style=flat-square&logo=Prettier&logoColor=white)](https://prettier.io/)
+[![Angular](https://img.shields.io/badge/~11.2.13-Angular-red)](https://angular.io/)
+
 
 
 
